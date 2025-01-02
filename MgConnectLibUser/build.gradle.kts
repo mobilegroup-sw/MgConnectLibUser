@@ -1,7 +1,7 @@
 plugins {
     id("com.android.library")
 }
-
+version = "0.2.0-alpha"
 android {
     namespace = "com.mobilegroup.mgconnectlibuser"
     compileSdk = 34
